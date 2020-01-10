@@ -59,7 +59,7 @@ body,
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(me.png);
-    background-color: #00a98f;
+    background-color: var(--color);
     background-blend-mode: multiply;
 }
 
