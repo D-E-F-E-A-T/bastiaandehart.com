@@ -4,7 +4,7 @@ body {
 }
 
  :root {
-    --color: #0000ff;
+    --color: #00a98f;
 }
 
 html,
@@ -59,7 +59,7 @@ body,
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(me.png);
-    background-color: #1e90ff;
+    background-color: #00a98f;
     background-blend-mode: multiply;
 }
 
