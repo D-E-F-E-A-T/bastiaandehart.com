@@ -34,7 +34,7 @@ body,
 .container_left {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 64px 64px 64px;
+    grid-template-rows: 64px 128px 64px;
     grid-template-areas: "left_title" "left_information" "left_links";
     grid-area: container_left;
     padding-left: 40px;
